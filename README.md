@@ -6,6 +6,6 @@
 2. Aman Mohanty
 
 
-# Effect of magnitude based pruning during re-training of the networks
+### Effect of magnitude based pruning during re-training of the networks
 ![CIFAR10](https://github.com/amanmohanty/idl-nncompress/blob/master/results/CIFAR10/CIFAR10-prune-valAcc.png)
 ![MNIST](https://github.com/amanmohanty/idl-nncompress/blob/master/results/MNIST/MNIST-prune-valAcc-png.png)
