@@ -4,3 +4,5 @@
 ### Team Members
 1. Harshit Rampal
 2. Aman Mohanty
+
+![CIFAR10](https://github.com/amanmohanty/idl-nncompress/blob/master/results/CIFAR10/CIFAR10-prune-valAcc.pdf)
