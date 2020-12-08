@@ -11,9 +11,11 @@
 ### Project Dependencies
 tensorflow, tensorflow-model-optimization, keras, nltk, numpy, pickle, PIL, requests, BytesIO
 
+### Dataset
+For this project, we train our model on the [flickr8k dataset](https://www.kaggle.com/adityajn105/flickr8k)
 
 ### Results
-Performance comparison between baseline model and the quantized encoder quantized decoder image captioning models with VGG16 encoder and LSTM decoder.
+Performance comparison between baseline model and the quantized encoder quantized decoder model. The baseline image captioning model has VGG16 encoder and LSTM decoder and is trained on the flickr8k dataset.
 
 Models | BLEU Score | Model Size(MB) | Inference time for 2000 samples(mins)
 -------|------------|----------------|--------------------------------------
