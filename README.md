@@ -12,4 +12,4 @@
 
 
 ### Generated Captions
-<img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/06/05231748/belgian-malinois-running-through-field.jpg" width="48">
+<img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/06/05231748/belgian-malinois-running-through-field.jpg" width="250">
