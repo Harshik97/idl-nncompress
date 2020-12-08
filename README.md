@@ -9,6 +9,16 @@
 
 
 ### Project Dependencies
+tensorflow, tensorflow-model-optimization, keras, nltk, numpy, pickle, PIL, requests, BytesIO
+
+
+### Results
+Performance comparison between baseline model and the quantized encoder quantized decoder image captioning models with VGG16 encoder and LSTM decoder.
+
+Models | BLEU Score | Model Size(MB) | Inference time for 2000 samples(mins)
+----------------------------------------------------------------------------
+Baseline-Baseline | 0.527 | 578.4 | 5.68
+Quantized-Quantized | 0.568 | 155.39 | 1.63
 
 
 ### Generated Captions
