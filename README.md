@@ -1,4 +1,4 @@
-### This repo contains work for the paper 'Efficient CNN-LSTM based Image Captioning using Neural Network Compression'
+### This repo contains work for the paper ['Efficient CNN-LSTM based Image Captioning using Neural Network Compression'](https://arxiv.org/pdf/2012.09708)
 
 ## Team Members
 1. Harshit Rampal
